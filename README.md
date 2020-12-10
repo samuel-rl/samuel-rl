@@ -44,9 +44,7 @@
 <br><br>
  
 <p align="center">
-  
-  [*Have a look at my other projects*](https://github.com/samuel3105?tab=repositories)
-  
+  <a href="https://github.com/samuel3105?tab=repositories">Have a look at my other projects</a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/samuel3105/samuel3105/blob/main/prog.gif?raw=true">
