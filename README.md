@@ -1,7 +1,9 @@
 <h1 align="center">Hello, I'm samuel 👋</h1>
 <h3 align="center">I'm a french computer science student</h3>
 
-<div style="text-align:center"><a href="https://twitter.com/ssamuel_rl" target="blank"><img src="https://img.shields.io/twitter/follow/ssamuel_rl?logo=twitter&style=for-the-badge" alt="ssamuel_rl" /></a> </div>
+<p align="center">
+  <a href="https://twitter.com/ssamuel_rl" target="blank"><img src="https://img.shields.io/twitter/follow/ssamuel_rl?logo=twitter&style=for-the-badge" alt="ssamuel_rl" /></a>
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/samuel3105/samuel3105/blob/main/phone.gif?raw=true">
 
@@ -23,9 +25,9 @@
 
 <br><br><br>
 
-<div align="center">
+<p align="center">
   Some of my React-native public repository :
-</div>
+</p>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel3105&repo=react-native_movie-app)](https://github.com/samuel3105/react-native_movie-app)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel3105&repo=react-native-animated-tabBar)](https://github.com/samuel3105/react-native-animated-tabBar)
@@ -43,13 +45,13 @@
  
 <p align="center">
   
-  [*Have a look on my other projects*](https://github.com/samuel3105?tab=repositories)
+  [*Have a look at my other projects*](https://github.com/samuel3105?tab=repositories)
   
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/samuel3105/samuel3105/blob/main/prog.gif?raw=true">
 
-<br><br><br><br>
+<br><br><br>
 
 My first application is now available :
 
@@ -57,7 +59,7 @@ My first application is now available :
 
 - 🔥 <ins>Android</ins> : [Blu-ray Diagnostic](https://play.google.com/store/apps/details?id=com.samuel.lesgargiensducinema&hl=fr_CH&gl=US)
 
-<br><br><br>
+<br><br><br><br>
 
 <div align="center">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel3105&show_icons=true&locale=en&layout=compact" alt="samuel3105" />
