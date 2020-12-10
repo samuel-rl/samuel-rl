@@ -57,7 +57,7 @@ My first application is now available :
 
 - 🔥 <ins>Android</ins> : [Blu-ray Diagnostic](https://play.google.com/store/apps/details?id=com.samuel.lesgargiensducinema&hl=fr_CH&gl=US)
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 <div align="center">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel3105&show_icons=true&locale=en&layout=compact" alt="samuel3105" />
