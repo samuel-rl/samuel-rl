@@ -29,8 +29,14 @@
   Some of my React-native public repository :
 </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel3105&repo=react-native_movie-app)](https://github.com/samuel3105/react-native_movie-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel3105&repo=react-native-animated-tabBar)](https://github.com/samuel3105/react-native-animated-tabBar)
+<div align="center">
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel3105&repo=react-native_movie-app)](https://github.com/samuel3105/react-native_movie-app)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel3105&repo=react-native-animated-tabBar)](https://github.com/samuel3105/react-native-animated-tabBar)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel3105&repo=react-native_ipod)](https://github.com/samuel3105/react-native_ipod)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel3105&repo=React-native-Book-reader)](https://github.com/samuel3105/React-native-Book-reader)
+  
+</div>
 
 <br>
 
@@ -38,8 +44,12 @@
   Other cool projects :
 </div>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel3105&repo=Python-genetic-algorithm_Rectangle-art-portrait)](https://github.com/samuel3105/Python-genetic-algorithm_Rectangle-art-portrait)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel3105&repo=movie-colors)](https://github.com/samuel3105/movie-colors)
+<div align="center">
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel3105&repo=Python-genetic-algorithm_Rectangle-art-portrait)](https://github.com/samuel3105/Python-genetic-algorithm_Rectangle-art-portrait)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel3105&repo=movie-colors)](https://github.com/samuel3105/movie-colors)
+  
+</div>
 
 <br><br>
  
