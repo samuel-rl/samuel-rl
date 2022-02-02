@@ -5,7 +5,7 @@
   <a href="https://twitter.com/ssamuel_rl" target="blank"><img src="https://img.shields.io/twitter/follow/ssamuel_rl?logo=twitter&style=for-the-badge" alt="ssamuel_rl" /></a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/samuel3105/samuel3105/blob/main/phone.gif?raw=true">
+<img align="right" alt="Coding" width="400" src="https://github.com/samuel-rl/samuel-rl/blob/main/phone.gif?raw=true">
 
 <br><br>
 
@@ -31,10 +31,10 @@
 
 <div align="center">
   
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel3105&repo=react-native_movie-app)](https://github.com/samuel3105/react-native_movie-app)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel3105&repo=react-native-animated-tabBar)](https://github.com/samuel3105/react-native-animated-tabBar)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel3105&repo=react-native_ipod)](https://github.com/samuel3105/react-native_ipod)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel3105&repo=React-native-Book-reader)](https://github.com/samuel3105/React-native-Book-reader)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-rl&repo=react-native_movie-app)](https://github.com/samuel-rl/react-native_movie-app)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-rl&repo=react-native-animated-tabBar)](https://github.com/samuel-rl/react-native-animated-tabBar)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-rl&repo=react-native_ipod)](https://github.com/samuel-rl/react-native_ipod)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-rl&repo=React-native-Book-reader)](https://github.com/samuel-rl/React-native-Book-reader)
   
 </div>
 
@@ -46,18 +46,18 @@
 
 <div align="center">
   
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel3105&repo=Python-genetic-algorithm_Rectangle-art-portrait)](https://github.com/samuel3105/Python-genetic-algorithm_Rectangle-art-portrait)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel3105&repo=movie-colors)](https://github.com/samuel3105/movie-colors)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-rl&repo=Python-genetic-algorithm_Rectangle-art-portrait)](https://github.com/samuel-rl/Python-genetic-algorithm_Rectangle-art-portrait)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-rl&repo=movie-colors)](https://github.com/samuel-rl/movie-colors)
   
 </div>
 
 <br><br>
  
 <p align="center">
-  <a href="https://github.com/samuel3105?tab=repositories">Have a look at my other projects</a>
+  <a href="https://github.com/samuel-rl?tab=repositories">Have a look at my other projects</a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/samuel3105/samuel3105/blob/main/prog.gif?raw=true">
+<img align="right" alt="Coding" width="400" src="https://github.com/samuel-rl/samuel-rl/blob/main/prog.gif?raw=true">
 
 <br><br><br>
 
@@ -70,17 +70,17 @@ My first application is now available :
 <br><br><br><br><br><br>
 
 <div align="center">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel3105&show_icons=true&locale=en&layout=compact" alt="samuel3105" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-rl&show_icons=true&locale=en&layout=compact" alt="samuelrl" />
 </div>
 
 <br>
 
 <div align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel3105&" alt="samuel3105" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-rl&" alt="samuelrl" />
 </div>
 
 <br>
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuel3105&show_icons=true&locale=en" alt="samuel3105" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuel-rl&show_icons=true&locale=en" alt="samuelrl" />
 </div>
